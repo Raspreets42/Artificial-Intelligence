@@ -1,0 +1,12 @@
+scikit-learn
+tensorflow
+numpy
+pandas
+torch
+matplotlib
+mlxtend
+bs4
+seaborn
+plotly
+pandas-profiling
+scipy

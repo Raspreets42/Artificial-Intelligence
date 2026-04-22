@@ -1,0 +1,50 @@
+[
+  {
+    "age": 25,
+    "income": 30000,
+    "education_years": 12,
+    "purchased": 0
+  },
+  {
+    "age": 45,
+    "income": 75000,
+    "education_years": 16,
+    "purchased": 1
+  },
+  {
+    "age": 30,
+    "income": 45000,
+    "education_years": 14,
+    "purchased": 0
+  },
+  {
+    "age": 50,
+    "income": 90000,
+    "education_years": 18,
+    "purchased": 1
+  },
+  {
+    "age": 23,
+    "income": 28000,
+    "education_years": 12,
+    "purchased": 0
+  },
+  {
+    "age": 40,
+    "income": 68000,
+    "education_years": 15,
+    "purchased": 1
+  },
+  {
+    "age": 35,
+    "income": 52000,
+    "education_years": 13,
+    "purchased": 0
+  },
+  {
+    "age": 48,
+    "income": 85000,
+    "education_years": 17,
+    "purchased": 1
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "house_age_years": 1,
+    "price_1000usd": 320
+  },
+  {
+    "house_age_years": 2,
+    "price_1000usd": 310
+  },
+  {
+    "house_age_years": 3,
+    "price_1000usd": 305
+  },
+  {
+    "house_age_years": 5,
+    "price_1000usd": 290
+  },
+  {
+    "house_age_years": 8,
+    "price_1000usd": 270
+  },
+  {
+    "house_age_years": 12,
+    "price_1000usd": 240
+  },
+  {
+    "house_age_years": 20,
+    "price_1000usd": 200
+  },
+  {
+    "house_age_years": 30,
+    "price_1000usd": 160
+  },
+  {
+    "house_age_years": 45,
+    "price_1000usd": 120
+  },
+  {
+    "house_age_years": 60,
+    "price_1000usd": 90
+  },
+  {
+    "house_age_years": 80,
+    "price_1000usd": 70
+  },
+  {
+    "house_age_years": 100,
+    "price_1000usd": 55
+  }
+]
