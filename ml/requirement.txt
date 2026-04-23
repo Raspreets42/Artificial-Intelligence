@@ -10,3 +10,4 @@ seaborn
 plotly
 pandas-profiling
 scipy
+statsmodels
