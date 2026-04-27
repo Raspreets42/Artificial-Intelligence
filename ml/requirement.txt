@@ -11,3 +11,4 @@ plotly
 pandas-profiling
 scipy
 statsmodels
+kaleido
